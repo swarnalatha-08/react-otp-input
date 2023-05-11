@@ -15,6 +15,8 @@ export default function ReactOtpInput() {
       numInputs={4}
       isInputNum
       inputStyle={{border:'1px solid red',fontSize:'24px',padding:'16px',margin:'10px'}}
+      isInputSecure={true}
+      shouldAutoFocus
     />
   );
 }

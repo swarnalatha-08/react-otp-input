@@ -1,19 +1,19 @@
 // npm install --save otp-input-react
 // npm i react-otp-input
 
-import { useState } from "react";
+// import { useState } from "react";
 import "./App.css";
-import OTPInput, { ResendOTP } from "otp-input-react";
+// import OTPInput, { ResendOTP } from "otp-input-react";
 // import OtpInput, { onResendClick } from "react-otp-input";
-import OtpInput from 'react18-input-otp';
+// import OtpInput from 'react18-input-otp';
 import ReactOtpInput from "./reactotp";
 
 function App() {
-  const [OTP, setOTP] = useState("");
-  const [otp, setOtp] = useState("");
-  const styles = {
-    border: "1px solid red",
-  };
+  // const [OTP, setOTP] = useState("");
+  // const [otp, setOtp] = useState("");
+  // const styles = {
+  //   border: "1px solid red",
+  // };
   // const handlePaste = (e) => {
   //   const pastedText = e.clipboardData.getData('numeric');
   //   setOtp(pastedText);
